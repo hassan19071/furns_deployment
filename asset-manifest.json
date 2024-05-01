@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/furns_deployment/static/css/main.dffc488d.css",
+    "main.js": "/furns_deployment/static/js/main.e473b801.js",
+    "static/js/453.dcadb2c0.chunk.js": "/furns_deployment/static/js/453.dcadb2c0.chunk.js",
+    "static/media/slider-1.png": "/furns_deployment/static/media/slider-1.171cb1c2e9356637def4.png",
+    "static/media/slider-2.png": "/furns_deployment/static/media/slider-2.8b888191d32034ff849f.png",
+    "static/media/_images_about_02.jpg": "/furns_deployment/static/media/_images_about_02.33095e9b2acb0892ecdd.jpg",
+    "static/media/_images_about_01.jpg": "/furns_deployment/static/media/_images_about_01.5769129f9b5b9f48dbf5.jpg",
+    "static/media/_images_banner_2.jpg": "/furns_deployment/static/media/_images_banner_2.0b03341c57853c05d5d9.jpg",
+    "static/media/_images_banner_1.jpg": "/furns_deployment/static/media/_images_banner_1.f12a8c270926be2851b6.jpg",
+    "index.html": "/furns_deployment/index.html",
+    "main.dffc488d.css.map": "/furns_deployment/static/css/main.dffc488d.css.map",
+    "main.e473b801.js.map": "/furns_deployment/static/js/main.e473b801.js.map",
+    "453.dcadb2c0.chunk.js.map": "/furns_deployment/static/js/453.dcadb2c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dffc488d.css",
+    "static/js/main.e473b801.js"
+  ]
+}
